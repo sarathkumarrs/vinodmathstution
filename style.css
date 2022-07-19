@@ -1,0 +1,159 @@
+body{
+    background-image: linear-gradient(to right, #9490c896 ,#FBDED5);
+
+}
+
+#spotlight{
+    /* background-image: linear-gradient(to right, #9490c896 ,#FBDED5); */
+    
+}
+
+.share{
+    background: #FF9F81;
+    /* Glow */
+
+    box-shadow: 0px 9px 26px #FF9F81;
+    border-radius: 47px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 8px 16px;
+    gap: 8px;
+
+    width: 154px;
+    height: 40px;
+}
+
+.number{
+
+    color: #3F3D56;
+    display: inline-block;
+    background:radial-gradient(100% 1543% at 0% 0%, rgba(255, 255, 255, 0.42) 0%, rgba(255, 255, 255, 0.06) 100%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
+    /* Glow */
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    border-radius: 43px;
+
+
+    box-shadow: 0px 9px 26px ;
+    border-radius: 47px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 8px 16px;
+    gap: 8px;
+
+    width: 154px;
+    height: 40px;
+    margin-right: 50px;
+
+}
+
+.tuitions{
+    
+}
+
+.cardtution{
+    /* Frame 7 */
+
+
+    box-sizing: border-box;
+
+    /* Auto layout */
+    padding: 32px;
+    gap: 24px;
+    width: 550px;
+    height: 100px;
+    left: 100px;
+    top: 649px;
+    /* Glass */
+    background: radial-gradient(100% 1543% at 0% 0%, rgba(255, 255, 255, 0.42) 0%, rgba(255, 255, 255, 0.06) 100%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
+    /* Glass stroke */
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    /* Glass */
+    box-shadow: 0px 4px 7px rgba(85, 51, 78, 0.2);
+    backdrop-filter: blur(12px);
+    /* Note: backdrop-filter has minimal browser support */
+    border-radius: 12px;
+}
+
+.spanclassmain{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 8px;
+    gap: 8px;
+    width: 110px;
+    height: 30px;
+    background: #9C89B8;
+    border-radius: 12px;
+}
+
+.spanclass{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 8px;
+    gap: 8px;
+    width: 110px;
+    height: 30px;
+    background: #FFFF;
+    border-radius: 12px;
+
+
+}
+#whyus{
+
+    /* background-image: linear-gradient(to right,#FBDED5, #9490c896); */
+
+}
+#Vinod{
+    background-color:#f0e6ef;
+}
+
+#Vinod img{
+    max-width: 200px;
+    max-height: 210px;
+}
+
+.photoofvinod{
+    box-sizing: border-box;
+    width: 370px;
+    height: 297px;
+    left: 274px;
+    top: 2407px;
+
+    /* Glass */
+
+    background: radial-gradient(100% 1543% at 0% 0%, rgba(255, 255, 255, 0.42) 0%, rgba(255, 255, 255, 0.06) 100%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
+    /* Glass stroke */
+
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    /* Glass */
+
+    box-shadow: 0px 4px 7px rgba(85, 51, 78, 0.2);
+    backdrop-filter: blur(12px);
+    /* Note: backdrop-filter has minimal browser support */
+
+    border-radius: 12px 0px 0px 12px;
+
+}
+
+.samplegrad{
+    background: radial-gradient(100% 448.53% at 0% 0%, rgba(130, 76, 239, 0.7) 0%, #F0A6CA 100%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
+}
+
+.parent {
+  
+    text-align: center;
+  }
+  .child {
+    display: inline-block;
+    padding: 1rem 1rem;
+    vertical-align: middle;
+    color: white;
+    border-radius: 0px 12px 12px 0px;
+  }
