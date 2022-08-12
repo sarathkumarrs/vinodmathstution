@@ -7,6 +7,9 @@ body{
     /* background-image: linear-gradient(to right, #9490c896 ,#FBDED5); */
     
 }
+a{
+    text-decoration: none;
+}
 
 .share{
     background: #FF9F81;
